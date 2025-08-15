@@ -1,0 +1,1 @@
+This project analyzes sales data to uncover trends in customers, revenue, and market performance and the goal is to provide the sales and marketing teams with actionable insights through data exploration and interactive dashboards, helping in better decision-making.
